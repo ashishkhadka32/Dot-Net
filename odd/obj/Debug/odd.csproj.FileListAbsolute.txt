@@ -1,0 +1,8 @@
+C:\Users\Ashis Khadka\Desktop\dot net\odd\bin\Debug\odd.exe.config
+C:\Users\Ashis Khadka\Desktop\dot net\odd\bin\Debug\odd.exe
+C:\Users\Ashis Khadka\Desktop\dot net\odd\bin\Debug\odd.pdb
+C:\Users\Ashis Khadka\Desktop\dot net\odd\obj\Debug\odd.csproj.AssemblyReference.cache
+C:\Users\Ashis Khadka\Desktop\dot net\odd\obj\Debug\odd.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ashis Khadka\Desktop\dot net\odd\obj\Debug\odd.csproj.CoreCompileInputs.cache
+C:\Users\Ashis Khadka\Desktop\dot net\odd\obj\Debug\odd.exe
+C:\Users\Ashis Khadka\Desktop\dot net\odd\obj\Debug\odd.pdb

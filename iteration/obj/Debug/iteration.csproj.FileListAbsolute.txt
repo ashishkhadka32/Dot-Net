@@ -1,0 +1,8 @@
+C:\Users\Ashis Khadka\Desktop\dot net\iteration\obj\Debug\iteration.csproj.AssemblyReference.cache
+C:\Users\Ashis Khadka\Desktop\dot net\iteration\obj\Debug\iteration.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ashis Khadka\Desktop\dot net\iteration\obj\Debug\iteration.csproj.CoreCompileInputs.cache
+C:\Users\Ashis Khadka\Desktop\dot net\iteration\bin\Debug\iteration.exe.config
+C:\Users\Ashis Khadka\Desktop\dot net\iteration\bin\Debug\iteration.exe
+C:\Users\Ashis Khadka\Desktop\dot net\iteration\bin\Debug\iteration.pdb
+C:\Users\Ashis Khadka\Desktop\dot net\iteration\obj\Debug\iteration.exe
+C:\Users\Ashis Khadka\Desktop\dot net\iteration\obj\Debug\iteration.pdb
