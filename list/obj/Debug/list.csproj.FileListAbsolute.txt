@@ -1,0 +1,8 @@
+C:\Users\Ashis Khadka\Desktop\dot net\list\bin\Debug\list.exe.config
+C:\Users\Ashis Khadka\Desktop\dot net\list\bin\Debug\list.exe
+C:\Users\Ashis Khadka\Desktop\dot net\list\bin\Debug\list.pdb
+C:\Users\Ashis Khadka\Desktop\dot net\list\obj\Debug\list.csproj.AssemblyReference.cache
+C:\Users\Ashis Khadka\Desktop\dot net\list\obj\Debug\list.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ashis Khadka\Desktop\dot net\list\obj\Debug\list.csproj.CoreCompileInputs.cache
+C:\Users\Ashis Khadka\Desktop\dot net\list\obj\Debug\list.exe
+C:\Users\Ashis Khadka\Desktop\dot net\list\obj\Debug\list.pdb
