@@ -1,0 +1,8 @@
+C:\Users\Ashis Khadka\Desktop\dot net\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\Ashis Khadka\Desktop\dot net\LINQ\bin\Debug\LINQ.exe
+C:\Users\Ashis Khadka\Desktop\dot net\LINQ\bin\Debug\LINQ.pdb
+C:\Users\Ashis Khadka\Desktop\dot net\LINQ\obj\Debug\LINQ.csproj.AssemblyReference.cache
+C:\Users\Ashis Khadka\Desktop\dot net\LINQ\obj\Debug\LINQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ashis Khadka\Desktop\dot net\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Ashis Khadka\Desktop\dot net\LINQ\obj\Debug\LINQ.exe
+C:\Users\Ashis Khadka\Desktop\dot net\LINQ\obj\Debug\LINQ.pdb

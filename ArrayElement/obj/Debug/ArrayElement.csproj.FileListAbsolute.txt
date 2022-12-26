@@ -1,0 +1,8 @@
+C:\Users\Ashis Khadka\Desktop\dot net\ArrayElement\bin\Debug\ArrayElement.exe.config
+C:\Users\Ashis Khadka\Desktop\dot net\ArrayElement\bin\Debug\ArrayElement.exe
+C:\Users\Ashis Khadka\Desktop\dot net\ArrayElement\bin\Debug\ArrayElement.pdb
+C:\Users\Ashis Khadka\Desktop\dot net\ArrayElement\obj\Debug\ArrayElement.csproj.AssemblyReference.cache
+C:\Users\Ashis Khadka\Desktop\dot net\ArrayElement\obj\Debug\ArrayElement.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ashis Khadka\Desktop\dot net\ArrayElement\obj\Debug\ArrayElement.csproj.CoreCompileInputs.cache
+C:\Users\Ashis Khadka\Desktop\dot net\ArrayElement\obj\Debug\ArrayElement.exe
+C:\Users\Ashis Khadka\Desktop\dot net\ArrayElement\obj\Debug\ArrayElement.pdb

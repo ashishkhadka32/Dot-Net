@@ -1,0 +1,8 @@
+C:\Users\Ashis Khadka\Desktop\dot net\voteEligibility\bin\Debug\voteEligibility.exe.config
+C:\Users\Ashis Khadka\Desktop\dot net\voteEligibility\bin\Debug\voteEligibility.exe
+C:\Users\Ashis Khadka\Desktop\dot net\voteEligibility\bin\Debug\voteEligibility.pdb
+C:\Users\Ashis Khadka\Desktop\dot net\voteEligibility\obj\Debug\voteEligibility.csproj.AssemblyReference.cache
+C:\Users\Ashis Khadka\Desktop\dot net\voteEligibility\obj\Debug\voteEligibility.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ashis Khadka\Desktop\dot net\voteEligibility\obj\Debug\voteEligibility.csproj.CoreCompileInputs.cache
+C:\Users\Ashis Khadka\Desktop\dot net\voteEligibility\obj\Debug\voteEligibility.exe
+C:\Users\Ashis Khadka\Desktop\dot net\voteEligibility\obj\Debug\voteEligibility.pdb

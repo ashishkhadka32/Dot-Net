@@ -1,0 +1,8 @@
+C:\Users\Ashis Khadka\Desktop\dot net\ArithmeticOperator\bin\Debug\ArithmeticOperator.exe.config
+C:\Users\Ashis Khadka\Desktop\dot net\ArithmeticOperator\bin\Debug\ArithmeticOperator.exe
+C:\Users\Ashis Khadka\Desktop\dot net\ArithmeticOperator\bin\Debug\ArithmeticOperator.pdb
+C:\Users\Ashis Khadka\Desktop\dot net\ArithmeticOperator\obj\Debug\ArithmeticOperator.csproj.AssemblyReference.cache
+C:\Users\Ashis Khadka\Desktop\dot net\ArithmeticOperator\obj\Debug\ArithmeticOperator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ashis Khadka\Desktop\dot net\ArithmeticOperator\obj\Debug\ArithmeticOperator.csproj.CoreCompileInputs.cache
+C:\Users\Ashis Khadka\Desktop\dot net\ArithmeticOperator\obj\Debug\ArithmeticOperator.exe
+C:\Users\Ashis Khadka\Desktop\dot net\ArithmeticOperator\obj\Debug\ArithmeticOperator.pdb

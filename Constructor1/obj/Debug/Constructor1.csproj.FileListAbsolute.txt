@@ -1,0 +1,8 @@
+C:\Users\Ashis Khadka\Desktop\dot net\Constructor1\bin\Debug\Constructor1.exe.config
+C:\Users\Ashis Khadka\Desktop\dot net\Constructor1\bin\Debug\Constructor1.exe
+C:\Users\Ashis Khadka\Desktop\dot net\Constructor1\bin\Debug\Constructor1.pdb
+C:\Users\Ashis Khadka\Desktop\dot net\Constructor1\obj\Debug\Constructor1.csproj.AssemblyReference.cache
+C:\Users\Ashis Khadka\Desktop\dot net\Constructor1\obj\Debug\Constructor1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ashis Khadka\Desktop\dot net\Constructor1\obj\Debug\Constructor1.csproj.CoreCompileInputs.cache
+C:\Users\Ashis Khadka\Desktop\dot net\Constructor1\obj\Debug\Constructor1.exe
+C:\Users\Ashis Khadka\Desktop\dot net\Constructor1\obj\Debug\Constructor1.pdb
